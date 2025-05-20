@@ -19,9 +19,9 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /upptime
-  logoUrl: https://pcdn.vinkas.com/images/logo-black-512h.png
+  cname: status.vinkas.com
+  # baseUrl: /upptime
+  logoUrl: https://pcdn.vinkas.com/logomark.png
   name: Vinkas Status
   introTitle: "Uptime status of all the websites of Vinkas"
   introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/vinkashq/upptime) to manage uptime data in GitHub Actions, Issues, and Pages.
