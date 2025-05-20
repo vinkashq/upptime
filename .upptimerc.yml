@@ -10,11 +10,13 @@ sites:
   - name: Vinkas Blog
     url: https://blog.vinkas.com
   - name: Singfuse
-    url: https://singfuse.com/up
+    url: https://singfuse.com
   - name: Singfuse Forum
     url: https://forum.singfuse.com/srv/status
   - name: Singfact
     url: https://singfact.com
+  - name: Singfuse Legacy
+    url: https://legacy.singfuse.com/up
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
