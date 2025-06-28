@@ -1,7 +1,7 @@
 url: https://vinkas.com/up
-status: up
-code: 200
-responseTime: 952
-lastUpdated: 2025-06-27T23:08:31.434Z
+status: down
+code: 503
+responseTime: 302
+lastUpdated: 2025-06-28T19:25:04.977Z
 startTime: 2025-05-20T16:09:31.757Z
 generator: Upptime <https://github.com/upptime/upptime>
