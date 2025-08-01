@@ -1,7 +1,7 @@
 url: https://singfact.com
-status: up
-code: 200
-responseTime: 1546
-lastUpdated: 2025-07-31T23:09:18.478Z
+status: down
+code: 503
+responseTime: 304
+lastUpdated: 2025-08-01T19:30:47.322Z
 startTime: 2025-05-20T16:09:40.344Z
 generator: Upptime <https://github.com/upptime/upptime>
