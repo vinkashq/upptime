@@ -1,7 +1,7 @@
 url: https://singfuse.com
-status: up
-code: 200
-responseTime: 5160
-lastUpdated: 2025-08-19T23:07:37.342Z
+status: down
+code: 500
+responseTime: 5327
+lastUpdated: 2025-08-20T14:22:02.177Z
 startTime: 2025-05-20T16:09:35.304Z
 generator: Upptime <https://github.com/upptime/upptime>
