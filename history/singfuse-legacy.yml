@@ -1,7 +1,7 @@
 url: https://legacy.singfuse.com/up
-status: up
-code: 200
-responseTime: 735
-lastUpdated: 2025-10-10T23:01:15.937Z
+status: down
+code: 503
+responseTime: 320
+lastUpdated: 2025-10-11T19:30:06.746Z
 startTime: 2025-05-20T16:57:37.245Z
 generator: Upptime <https://github.com/upptime/upptime>
