@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Vinkas
-    url: https://vinkas.com/up
+    url: https://vinkas.com/api/health
   - name: Vinkas Account
     url: https://account.vinkas.com/health
   - name: Vinkas Community
